@@ -1,4 +1,4 @@
 # ProgObligInd01
 Simon Portillo
 
-Norgeflagg laget i Pyret
+Inneholder ProgOblig01 individuell del 1, 2 og min versjon av gruppeoppgaven.
